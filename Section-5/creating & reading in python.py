@@ -7,4 +7,4 @@ from digital images, videos and other visual inputs —
  If AI enables computers to think, computer vision 
  enables them to see, observe and understand.
 """
-while open(file_definition.txt, "w").write(definition)
+open(file_definition.txt, "w").write(definition)
